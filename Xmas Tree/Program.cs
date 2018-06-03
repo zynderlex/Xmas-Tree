@@ -38,6 +38,7 @@ namespace Xmas_Tree
 
                 Console.WriteLine();
             }
+
             for (i = 1; i <= 2; i++) {
                 for (j = 1; j <= width; j++) {
                     if (j == center-1 || j == center) // ฐานต้นไม้ปริ้น ตรงกลางกับ ตรงกลาง -1 
@@ -49,8 +50,10 @@ namespace Xmas_Tree
                     }
 
                 }
+
                 Console.WriteLine();
             }
+
             Console.ReadKey();
         }
     }
