@@ -1,0 +1,7 @@
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\obj\Debug\Xmas Tree.csprojResolveAssemblyReference.cache
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\obj\Debug\Xmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\bin\Debug\Xmas Tree.exe.config
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\bin\Debug\Xmas Tree.exe
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\bin\Debug\Xmas Tree.pdb
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\obj\Debug\Xmas Tree.exe
+C:\Users\XIII\source\repos\Xmas Tree\Xmas Tree\obj\Debug\Xmas Tree.pdb
